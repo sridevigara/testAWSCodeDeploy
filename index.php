@@ -1,3 +1,3 @@
 <?php
-echo "Production Environment".date();
+echo "Development Environment".date();
 ?>
